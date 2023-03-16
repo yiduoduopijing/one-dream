@@ -79,7 +79,7 @@ Page({
       wx.showToast({
         title: '刷新成功',
         icon: 'success',
-        duration: 2000
+        duration: 1000
       })
     },3000)
 
@@ -90,7 +90,7 @@ Page({
     wx.showToast({
       title: '加载中',
       icon: 'loading',
-      duration: 4000
+      duration: 500
     })
     var next = util.getNext();
     console.log("continueload");
@@ -103,7 +103,7 @@ Page({
       wx.showToast({
         title: '加载成功',
         icon: 'success',
-        duration: 2000
+        duration: 300
       })
     },3000)
   }

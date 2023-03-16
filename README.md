@@ -1,11 +1,11 @@
 # weapp-wechat-zhihu
 
-微信中的知乎--微信小程序 demo // Zhihu in Wechat
+微信中的寻乎--微信小程序 demo // Zhihu in Wechat
 
 ![](images/v_index.png)
 
 ### description
-- 界面及交互设计来自知乎 Android 版本
+- 界面及交互设计来自寻乎 Android 版本
 - _工具_: [微信 web 开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html?t=1477579747265)
 - _数据_: 没有开放 API, 所以使用伪造本地数据
 
